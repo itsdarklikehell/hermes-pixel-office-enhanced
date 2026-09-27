@@ -20,6 +20,11 @@ Hermes' answer to "Pixel Agents" for Claude Code.
 
 ## The interactive office (v0.4.0)
 
+## Ontwikkeltijdlijn
+
+<video src="https://raw.githubusercontent.com/itsdarklikehell/hermes-pixel-office-enhanced/master/gource.mp4" controls width="100%"></video>
+
+
 Beyond the animated scene, the header has **Leaderboard**, **Tiers**, **Models**,
 **Chat** and **About** buttons that open scrollable panels. Click any user to
 open their profile; click **Edit Profile** to make it your own.
