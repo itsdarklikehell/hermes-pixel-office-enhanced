@@ -1,5 +1,11 @@
 # Hermes Pixel Office Enhanced ☤
 
+<p align="center">
+  <a href="https://github.com/itsdarklikehell/hermes-pixel-office-enhanced/actions/workflows/ci.yml"><img src="https://img.shields.io/github/actions/workflow/status/itsdarklikehell/hermes-pixel-office-enhanced/ci.yml?style=for-the-badge&label=CI" alt="CI"></a>
+  <a href="https://github.com/itsdarklikehell/hermes-pixel-office-enhanced/actions/workflows/gource.yml"><img src="https://img.shields.io/github/actions/workflow/status/itsdarklikehell/hermes-pixel-office-enhanced/gource.yml?style=for-the-badge&label=Gource" alt="Gource"></a>
+  <a href="https://github.com/itsdarklikehell/hermes-pixel-office-enhanced/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="License: MIT"></a>
+</p>
+
 A pixel-art virtual office for [Hermes Agent](https://github.com/NousResearch/hermes-agent) —
 every agent session and every `delegate_task` subagent becomes an animated
 pixel character at a desk. Watch tools fire, subagents spawn and finish,
